@@ -19,3 +19,7 @@ The System can perform the following functions:
 5.Return a Book
 6.See the List of Books Borrowed
 
+# Execute the Program
+ Go to the Folder inside which the Python File is present and, run the file 
+ from an ide , or using command line - python run main . The files for storing the books will be created in the same directory where the     main.py file is present
+
